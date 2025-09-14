@@ -4,7 +4,7 @@
 Sitio web oficial de VendiyaGlobal - VendiyaGlobal
 
 
-**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md) | [Italiano](README-it.md)| [Aleman](README-ge.md)**
+**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md) | [Italiano](README-it.md) | [Aleman](README-ge.md)**
 
 
 ## 🌍 Acerca de
@@ -59,9 +59,9 @@ La aplicación móvil está disponible para Android con las siguientes caracter�
 
 Para soporte técnico o consultas:
 
-- **Email:** marketplace.international.app@gmail.com
+- **Email:** vendiyaglobal@gmail.com
 
-- **Desarrollador:** CarlosG7 Technology Enterprise
+- **Desarrollador:** G7 Enterprise
 
 
 ## 📄 Política de Privacidad
