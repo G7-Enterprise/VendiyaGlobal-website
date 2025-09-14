@@ -1,16 +1,16 @@
-# Marketplace International
+#VendiyaGlobal
 
 
-Sitio web oficial de Marketplace International - Marketplace Internacional
+Sitio web oficial de VendiyaGlobal - VendiyaGlobal
 
 
-**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md)**
+**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md) | [Italiano](README-it.md)| [Aleman](README-ge.md)**
 
 
 ## 🌍 Acerca de
 
 
-Marketplace International es una plataforma de comercio electrónico que conecta compradores y vendedores a nivel internacional.
+VendiyaGlobal es una plataforma de comercio electrónico que conecta compradores y vendedores a nivel internacional.
 
 
 ## 🚀 Características
