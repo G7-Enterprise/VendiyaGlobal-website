@@ -4,7 +4,7 @@
 Sitio web oficial de VendiyaGlobal - VendiyaGlobal
 
 
-**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md) | [Italiano](README-it.md) | [Aleman](README-ge.md)**
+**🌐 [English](README-en.md) | [Português](README-pt.md) | [Français](README-fr.md) | [Italiano](README-it.md) | [Aleman](README-ge.md) | [Español](README-es.md)**
 
 
 ## 🌍 Acerca de
